@@ -1,0 +1,10 @@
+.active{
+    color: blue;
+    font-weight: 400;
+    margin-right: 2rem;
+}
+.not-active{
+    color: black;
+    font-weight: 200;
+    margin-right: 2rem;
+}
